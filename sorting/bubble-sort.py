@@ -13,3 +13,6 @@ def bubble_sort(list):
 unordered_list = [3, 6, 7, 8, 3, 45, 23, 0, 16, 26, 6, 7, 50]
 ordered_list = bubble_sort(unordered_list)
 print(ordered_list)
+
+# In the programming world, sorting and searching algorithms are fundamental for data manipulation
+# optimization of task
